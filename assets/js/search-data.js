@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-영감을-얻는-글들",
+        },{id: "post-성과-중심-문화",
+        
+          title: "성과 중심 문화",
+        
+        description: "readings",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/readings/";
+          
+        },
+      },{id: "post-영감을-얻는-글들",
         
           title: "영감을 얻는 글들",
         
