@@ -27,11 +27,11 @@ ninja.data = [{
         
           title: "성과 중심 문화",
         
-        description: "readings",
+        description: "readings1",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/readings/";
+            window.location.href = "/blog/2025/readings1/";
           
         },
       },{id: "post-영감을-얻는-글들",
