@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-성과-중심-문화",
+        },{id: "post-팀-전체가-치밀하게-생각하는-법",
+        
+          title: "팀 전체가 치밀하게 생각하는 법",
+        
+        description: "readings2",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/readings2/";
+          
+        },
+      },{id: "post-성과-중심-문화",
         
           title: "성과 중심 문화",
         
